@@ -1,11 +1,12 @@
 ---
-num: "lect06"
-desc: "Data representation"
-ready: true
-pdfurl: /lectures/CS16_Lecture6.pdf
 annotatedpdfurl: /lectures/CS16_Lecture6_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-18
+desc: Data representation
+lecture_date: 2019-07-16
+num: Lecture 6
+pdfurl: /lectures/CS16_Lecture6.pdf
+ready: false
+
 ---
 
 # Code from lecture

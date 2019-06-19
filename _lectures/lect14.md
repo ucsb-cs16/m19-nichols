@@ -1,11 +1,12 @@
 ---
-num: "lect14"
-desc: "Recursion and Strings"
-ready: true
-pdfurl: /lectures/CS16_Lecture14.pdf
 annotatedpdfurl: /lectures/CS16_Lecture14_ann.pdf
 annotatedready: true
-lecture_date: 2019-05-23
+desc: Recursion and Strings
+lecture_date: 2019-08-13
+num: Lecture 14
+pdfurl: /lectures/CS16_Lecture14.pdf
+ready: false
+
 ---
 
 ## Code from lecture

@@ -1,11 +1,12 @@
 ---
-num: "lect01"
-lecture_date: 2019-04-02
-desc: "Course overview, a gentle intro to C++ - Standard I/O"
-ready: true
-pdfurl: /lectures/CS16_Lecture1.pdf
 annotatedpdfurl: /lectures/CS16_Lecture1_ann.pdf
 annotatedready: true
+desc: Course overview, a gentle intro to C++ - Standard I/O
+lecture_date: 2019-06-25
+num: Lecture 1
+pdfurl: /lectures/CS16_Lecture1.pdf
+ready: false
+
 ---
 
 # Code from lecture

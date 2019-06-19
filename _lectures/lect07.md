@@ -1,11 +1,12 @@
 ---
-num: "lect07"
-desc: "File I/O"
-ready: true
-pdfurl: /lectures/CS16_Lecture7.pdf
 annotatedpdfurl: /lectures/CS16_Lecture7_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-23
+desc: File I/O
+lecture_date: 2019-07-18
+num: Lecture 7
+pdfurl: /lectures/CS16_Lecture7.pdf
+ready: false
+
 ---
 
 # Code from lecture

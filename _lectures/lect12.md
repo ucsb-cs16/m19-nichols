@@ -1,11 +1,12 @@
 ---
-num: "lect12"
-desc: "Linked lists, Dynamic memory allocation (Heap), Heap vs Stack"
-ready: true
-pdfurl: /lectures/CS16_Lecture12.pdf
 annotatedpdfurl: /lectures/CS16_Lecture12_ann.pdf
 annotatedready: true
-lecture_date: 2019-05-14
+desc: Linked lists, Dynamic memory allocation (Heap), Heap vs Stack
+lecture_date: 2019-08-06
+num: Lecture 12
+pdfurl: /lectures/CS16_Lecture12.pdf
+ready: false
+
 ---
 
 ## Code from lecture

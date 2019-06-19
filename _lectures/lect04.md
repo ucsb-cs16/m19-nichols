@@ -1,11 +1,12 @@
 ---
-num: "lect04"
-desc: "Functions"
-ready: true
-pdfurl: /lectures/CS16_Lecture4.pdf
 annotatedpdfurl: /lectures/CS16_Lecture4_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-11
+desc: Functions
+lecture_date: 2019-07-09
+num: Lecture 4
+pdfurl: /lectures/CS16_Lecture4.pdf
+ready: false
+
 ---
 
 # Lecture video

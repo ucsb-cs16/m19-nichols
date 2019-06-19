@@ -1,11 +1,12 @@
 ---
-num: "lect17"
-desc: "Wrap up and final review"
-ready: true
-pdfurl: /lectures/CS16_Lecture15.pdf
 annotatedpdfurl: /lectures/CS16_Lecture17_ann.pdf
 annotatedready: true
-lecture_date: 2019-06-04
+desc: Wrap up and final review
+lecture_date: 2019-08-22
+num: Lecture 17
+pdfurl: /lectures/CS16_Lecture15.pdf
+ready: false
+
 ---
 
 ## Code from lecture

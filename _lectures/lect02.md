@@ -1,11 +1,12 @@
 ---
-num: "lect02"
-desc: " Control Structures, I/O in programs"
-ready: true
-pdfurl:  /lectures/CS16_Lecture2.pdf
 annotatedpdfurl: /lectures/CS16_Lecture2_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-04
+desc: ' Control Structures, I/O in programs'
+lecture_date: 2019-06-27
+num: Lecture 2
+pdfurl: /lectures/CS16_Lecture2.pdf
+ready: false
+
 ---
 
 # Code from lecture

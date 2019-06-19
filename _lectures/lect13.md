@@ -1,11 +1,12 @@
 ---
-num: "lect13"
-desc: "Recursion, More Linked lists"
-ready: true
-pdfurl: /lectures/CS16_Lecture13.pdf
 annotatedpdfurl: /lectures/CS16_Lecture13_ann.pdf
 annotatedready: true
-lecture_date: 2019-05-21
+desc: Recursion, More Linked lists
+lecture_date: 2019-08-08
+num: Lecture 13
+pdfurl: /lectures/CS16_Lecture13.pdf
+ready: false
+
 ---
 
 ## Code from lecture

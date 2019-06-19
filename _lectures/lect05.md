@@ -1,11 +1,12 @@
 ---
-num: "lect05"
-desc: "Makefiles"
-ready: true
-pdfurl: /lectures/CS16_Lecture5.pdf
 annotatedpdfurl: /lectures/CS16_Lecture5_ann.pdf
 annotatedready: true
-lecture_date: 2019-04-16
+desc: Makefiles
+lecture_date: 2019-07-11
+num: Lecture 5
+pdfurl: /lectures/CS16_Lecture5.pdf
+ready: false
+
 ---
 
 # Code from lecture
