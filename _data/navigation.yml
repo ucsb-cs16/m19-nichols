@@ -32,11 +32,11 @@ offerings:
 
 offering_links:
   - title: Homework
-     url: /hwk/
-     description: "Homework Assignments"
+    url: /hwk/
+    description: "Homework Assignments"
   - title: Lab
-     url: /lab/
-     description: "Lab Assignments"
+    url: /lab/
+    description: "Lab Assignments"
   - title: Lectures
     url: /lectures/
     description: "Lecture slides and notes"

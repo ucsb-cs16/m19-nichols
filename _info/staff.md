@@ -6,7 +6,7 @@ ready: true
 
 # {{site.course}} {{site.qtr}} 
 
-## {{site.instuctor}’s Office Hours
+## {{site.instuctor}}’s Office Hours
 
 TBD
 
