@@ -15,7 +15,7 @@ timezone: America/Los_Angeles
 
 url: https://ucsb-cs16.github.io
 baseurl: "/m19-nichols"
-github_url: https://github.com/ucsb-cs8/m19-nichols
+github_url: https://github.com/ucsb-cs16/m19-nichols
 
 title: "UCSB CS16"
 course: "CS16"
