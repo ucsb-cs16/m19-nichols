@@ -4,7 +4,7 @@ annotatedready: true
 desc: Makefiles
 lecture_date: 2019-07-11
 num: Lecture 5
-pdfurl: /lectures/CS16_Lecture5.pdf
+slides: /lectures/CS16_Lecture5.pdf
 ready: false
 
 ---

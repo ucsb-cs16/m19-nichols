@@ -4,7 +4,7 @@ annotatedready: true
 desc: Wrap up
 lecture_date: 2019-08-20
 num: Lecture 16
-pdfurl: /lectures/CS16_Lecture15.pdf
+slides: /lectures/CS16_Lecture15.pdf
 ready: false
 
 ---

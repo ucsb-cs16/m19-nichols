@@ -4,7 +4,7 @@ annotatedready: true
 desc: Data representation
 lecture_date: 2019-07-16
 num: Lecture 6
-pdfurl: /lectures/CS16_Lecture6.pdf
+slides: /lectures/CS16_Lecture6.pdf
 ready: false
 
 ---

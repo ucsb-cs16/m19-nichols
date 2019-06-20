@@ -4,7 +4,7 @@ annotatedready: true
 desc: ' Control Structures, I/O in programs'
 lecture_date: 2019-06-27
 num: Lecture 2
-pdfurl: /lectures/CS16_Lecture2.pdf
+slides: /lectures/CS16_Lecture2.pdf
 ready: false
 
 ---

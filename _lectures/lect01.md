@@ -4,8 +4,8 @@ annotatedready: true
 desc: Course overview, a gentle intro to C++ - Standard I/O
 lecture_date: 2019-06-25
 num: Lecture 1
-pdfurl: /lectures/CS16_Lecture1.pdf
-ready: false
+slides: /lectures/CS16_Lecture1.pdf
+ready: true
 
 ---
 

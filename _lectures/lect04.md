@@ -4,7 +4,7 @@ annotatedready: true
 desc: Functions
 lecture_date: 2019-07-09
 num: Lecture 4
-pdfurl: /lectures/CS16_Lecture4.pdf
+slides: /lectures/CS16_Lecture4.pdf
 ready: false
 
 ---

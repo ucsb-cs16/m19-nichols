@@ -28,7 +28,7 @@ title: "CS16, M19, Nichols"
  </div>
 </div>
 
-{% include collapse-button.html label="Labs and Project" id="lab" %}
+{% include collapse-button.html label="Labs" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
   {% include lab_table.html %}

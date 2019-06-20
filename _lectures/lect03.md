@@ -4,7 +4,7 @@ annotatedready: true
 desc: Loops (for, while, do-while), doubles
 lecture_date: 2019-07-02
 num: Lecture 3
-pdfurl: /lectures/CS16_Lecture3.pdf
+slides: /lectures/CS16_Lecture3.pdf
 ready: false
 
 ---

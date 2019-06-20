@@ -4,7 +4,7 @@ annotatedready: true
 desc: Wrap up and final review
 lecture_date: 2019-08-22
 num: Lecture 17
-pdfurl: /lectures/CS16_Lecture15.pdf
+slides: /lectures/CS16_Lecture15.pdf
 ready: false
 
 ---

@@ -4,7 +4,7 @@ annotatedready: true
 desc: Pointers
 lecture_date: 2019-07-25
 num: Lecture 9
-pdfurl: /lectures/CS16_Lecture9.pdf
+slides: /lectures/CS16_Lecture9.pdf
 ready: false
 
 ---

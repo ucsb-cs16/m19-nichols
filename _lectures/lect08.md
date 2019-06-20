@@ -4,7 +4,7 @@ annotatedready: true
 desc: Arrays
 lecture_date: 2019-07-23
 num: Lecture 8
-pdfurl: /lectures/CS16_Lecture8.pdf
+slides: /lectures/CS16_Lecture8.pdf
 ready: false
 
 ---

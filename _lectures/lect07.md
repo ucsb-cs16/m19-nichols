@@ -4,7 +4,7 @@ annotatedready: true
 desc: File I/O
 lecture_date: 2019-07-18
 num: Lecture 7
-pdfurl: /lectures/CS16_Lecture7.pdf
+slides: /lectures/CS16_Lecture7.pdf
 ready: false
 
 ---
