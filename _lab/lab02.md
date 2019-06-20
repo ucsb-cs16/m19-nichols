@@ -170,7 +170,7 @@ The following table shows various calls to this function, along with what the st
 
 The rule is that the L should have width at least 2, and height at least 2, otherwise the result is an empty string, and printing an empty string results in no output.
 
-![starL](/lab/lab02/starL.png){:height="400px"}
+![starL](/s19-nichols/lab/lab02/starL.png){:height="400px"}
 
 
 So, this is a fairly easy function to write. This will do the job, and is provided for you as an example of how functions like this should be written.
@@ -185,20 +185,20 @@ What you'll be doing in this lab is writing three similar functions: startT, sta
 
 *Sample values returned from starT*
 
-![starT](/lab/lab02/starT.png){:height="400px"}
+![starT](/s19-nichols/lab/lab02/starT.png){:height="400px"}
 
 *Sample values returned from starC*
 
 starC renders the letters C, but requires a minimum width of 2, and a minimum height of 3.  Otherwise it returns an empty string.
 
-![starC](/lab/lab02/starC.png){:height="400px"}
+![starC](/s19-nichols/lab/lab02/starC.png){:height="400px"}
 
 
 *Sample values returned from starZ*
 
 starZ renders the letters Z, but requires a minimum width of 3.   It only takes one parameter, because the height and width are always assumed to be equal.
 
-![starZ](/lab/lab02/starZ.png){:height="400px"}
+![starZ](/s19-nichols/lab/lab02/starZ.png){:height="400px"}
 
 # Step by Step Instructions <a name="stepbystep"></a>
 

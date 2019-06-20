@@ -82,7 +82,7 @@ For this lab and all subsequent programming assignments, you should start by cre
 
 * Add the C++ .ignore option from the frop down menu and click on "Create repository". See screenshot below.
 
-![new-repo](/lab/lab00/enter-org/pic5.png){:height="500px"}
+![new-repo](/s19-nichols/lab/lab00/enter-org/pic5.png){:height="500px"}
 
 * Click on the "Create repo button"
 
