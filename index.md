@@ -42,8 +42,3 @@ title: "CS16, M19, Nichols"
   {%include exam_table.html %}
  </div>
 </div>
-
-
-
-
-y
