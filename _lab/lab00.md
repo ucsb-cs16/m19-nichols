@@ -36,7 +36,7 @@ To join this organization, you need to do the following:
 
 1. If you don't already have a github.com account, create one on the "free" plan. Visit [https://github.com/](https://github.com/)
 
-2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
+2. If you don't already have your **@umail.ucsb.edu** email address associated with your github.com account. It's important that it's your @umail.ucsb.edu and not your @ucsb.edu—the sign up tool won't work otherwise. Go to "settings", add that email, and confirm that email address.
 
 3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-M19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
 

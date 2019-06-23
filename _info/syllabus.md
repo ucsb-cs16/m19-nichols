@@ -20,10 +20,10 @@ You must contact the instructor for clarification if you receive information fro
 
 ## Grade breakdown by evaluation component
 * Participation: 2%
-* Homeworks/Quizzes: 8%
-* Lab assignments: 30%
-* Midterm Exams: 30%
-* Final Examination : 30%
+* Homeworks/Quizzes: 13%
+* Lab assignments: 35%
+* Midterm Exams (2 at 15% each): 30%
+* Final Examination : 20%
 
 <p>To get credit for each homework, you must complete the corresponding quiz on gauchospace which is based on the homework. This will count as your homework turn in and is the only way to get credit for your homework. </p>
 
@@ -83,9 +83,9 @@ I will drop your lowest quiz score. I will not drop any labs, exams, etc.
 
 # Schedule <a name="schedule"></a>
 
-For office hours please check the [course Google Calendar](/info/schedule/).
+For office hours please check the [course Google Calendar](/m19-nichols/info/schedule/).
 
-For hw, lab and exam schedule, please check the [assignment calendar](/info/calendar/).
+For hw, lab and exam schedule, please check the [assignment calendar](/m19-nichols/info/calendar/).
 
 
 # Resources <a name="resources"></a>
@@ -94,7 +94,7 @@ For hw, lab and exam schedule, please check the [assignment calendar](/info/cale
 
 * Textbook: Problem Solving with C++, Walter Savitch, Edition 9. Available for purchase at the UCSB book store
 
-* iClickers: You will need to own an iClicker register it on the [Gauchospace](https://gauchospace.ucsb.edu/courses/course/view.php?id=34359). Be sure to register your clicker by the end of the first week.
+* iClickers: You will need to own an iClicker and register it on Gauchospace. Be sure to register your clicker by the end of the first week.
 
 ## Exam Resources
 
