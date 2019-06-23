@@ -2,7 +2,7 @@
 annotatedpdfurl: /lectures/CS16_Lecture9_ann.pdf
 annotatedready: true
 desc: Pointers
-lecture_date: 2019-07-25
+lecture_date: 2019-07-30
 num: Lecture 9
 slides: /lectures/CS16_Lecture9.pdf
 ready: false

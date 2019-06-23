@@ -1,7 +1,7 @@
 ---
-assigned: 2019-07-17 17:00
+assigned: 2019-07-17 00:00
 desc: 'Counting ducks: File I/O and flow control'
-due: 2019-07-25 06:59
+due: 2019-07-24 23:59
 layout: lab
 num: lab03
 ready: true

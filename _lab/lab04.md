@@ -1,7 +1,7 @@
 ---
-assigned: 2019-07-24 17:00
+assigned: 2019-07-24 00:00
 desc: 'Odds and primes: Fun with arrays and makefiles'
-due: 2019-07-31 06:59
+due: 2019-07-31 23:59
 layout: lab
 num: lab04
 ready: true

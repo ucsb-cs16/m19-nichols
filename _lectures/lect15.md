@@ -2,7 +2,7 @@
 annotatedpdfurl: /lectures/CS16_Lecture15_ann.pdf
 annotatedready: true
 desc: Recursion, Strings, Wrap-Up
-lecture_date: 2019-08-15
+lecture_date: 2019-08-22
 num: Lecture 15
 slides: /lectures/CS16_Lecture15.pdf
 ready: false

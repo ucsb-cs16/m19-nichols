@@ -2,8 +2,9 @@
 title: "CS16, M19, Nichols"
 ---
 
+## {{site.course}} {{site.quarter}}
 
-## {{site.course}} {{site.quarter}}, {{site.instructor}}
+All announcements will be posted on Piazza. Sign up [using this link](https://piazza.com/ucsb/summer2019/cs16nichols).
 
 {% include collapse-button.html label="Information" id="info-list" %}
 

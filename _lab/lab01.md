@@ -1,7 +1,7 @@
 ---
-assigned: 2019-07-03 17:00
+assigned: 2019-07-03 00:00
 desc: 'Crunching numbers: Loops and functions '
-due: 2019-07-10 06:59
+due: 2019-07-10 23:59
 layout: lab
 num: lab01
 ready: true
@@ -71,7 +71,7 @@ If you don't see those files, work with your pair partner to go back through the
 
 ## Create a repo on github in our class organization
 
-For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs16-s19-nichols organization. Follow these steps
+For this lab and all subsequent programming assignments, you should start by creating a repo in the ucsb-cs16-m19 organization. Follow these steps
 
 * Navigate to your dashboard on [https://github.com/](https://github.com/). From the left drop down menu, select the class organization
 * Click on the green "New repository" button to create a new repository.
@@ -82,7 +82,7 @@ For this lab and all subsequent programming assignments, you should start by cre
 
 * Add the C++ .ignore option from the frop down menu and click on "Create repository". See screenshot below.
 
-![new-repo](/s19-nichols/lab/lab00/enter-org/pic5.png){:height="500px"}
+![new-repo](/m19-nichols/lab/lab00/enter-org/pic5.png){:height="500px"}
 
 * Click on the "Create repo button"
 
@@ -340,7 +340,7 @@ Upload your files to your repo on github using github's web interface.
 Once you are satisfied that your program is correct, then it's time to submit it.
 
 
-Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Spring 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. Select the second option and select your github repo for this assignment. You should receive 100/100 for a completely correct program.
+Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Summer 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. Select the second option and select your github repo for this assignment. You should receive 100/100 for a completely correct program.
 
 
 

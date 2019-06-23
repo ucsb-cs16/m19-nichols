@@ -2,7 +2,7 @@
 annotatedpdfurl: /lectures/CS16_Lecture12_ann.pdf
 annotatedready: true
 desc: Linked lists, Dynamic memory allocation (Heap), Heap vs Stack
-lecture_date: 2019-08-06
+lecture_date: 2019-08-08
 num: Lecture 12
 slides: /lectures/CS16_Lecture12.pdf
 ready: false

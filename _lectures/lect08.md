@@ -2,7 +2,7 @@
 annotatedpdfurl: /lectures/CS16_Lecture8_ann.pdf
 annotatedready: true
 desc: Arrays
-lecture_date: 2019-07-23
+lecture_date: 2019-07-25
 num: Lecture 8
 slides: /lectures/CS16_Lecture8.pdf
 ready: false

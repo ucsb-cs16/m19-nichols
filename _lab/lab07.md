@@ -1,7 +1,7 @@
 ---
-assigned: 2019-08-14 17:00
+assigned: 2019-08-14 00:00
 desc: Linked lists
-due: 2019-08-21 06:59
+due: 2019-08-21 23:59
 layout: lab
 num: lab07
 ready: true
@@ -41,7 +41,7 @@ Note: Remember to push your work to github at the end of EVERY work session. Tha
 
 * Navigate to your cs16 directory and clone the git repository you created
 ```
-git clone git@github.com:ucsb-cs16-s19-nichols/lab07_alily_jgaucho.git
+git clone git@github.com:ucsb-cs16-m19-nichols/lab07_alily_jgaucho.git
 ```
 * cd into this new directory
 ```
