@@ -1,7 +1,7 @@
 ---
 assigned: 2019-08-14 00:00
 desc: Linked lists
-due: 2019-08-21 23:59
+due: 2019-08-20 23:59
 layout: lab
 num: lab07
 ready: true

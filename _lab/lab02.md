@@ -1,7 +1,7 @@
 ---
 assigned: 2019-07-10 00:00
 desc: 'ASCII Art: Logical operators, integrating github into your workflow'
-due: 2019-07-17 23:59
+due: 2019-07-16 23:59
 layout: lab
 num: lab02
 ready: true

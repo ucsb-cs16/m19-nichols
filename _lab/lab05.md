@@ -1,7 +1,7 @@
 ---
 assigned: 2019-07-31 00:00
 desc: 'Fun with shapes: Pointers'
-due: 2019-08-07 23:59
+due: 2019-08-06 23:59
 layout: lab
 num: lab05
 ready: true

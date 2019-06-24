@@ -1,7 +1,7 @@
 ---
 assigned: 2019-07-03 00:00
 desc: 'Crunching numbers: Loops and functions '
-due: 2019-07-10 23:59
+due: 2019-07-09 23:59
 layout: lab
 num: lab01
 ready: true
