@@ -9,10 +9,9 @@ ready: true
 
 ---
 
-<!--
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-02>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/06-25>
 
 # Topics
 
@@ -37,6 +36,3 @@ ready: true
 * Remote login with ssh
 * High level introduction to tools: gradescope, github
 
-
-
--->
