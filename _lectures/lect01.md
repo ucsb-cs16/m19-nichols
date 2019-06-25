@@ -9,6 +9,7 @@ ready: true
 
 ---
 
+<!--
 # Code from lecture
 
 <https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-02>
@@ -37,3 +38,5 @@ ready: true
 * High level introduction to tools: gradescope, github
 
 
+
+-->
