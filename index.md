@@ -43,3 +43,7 @@ All announcements will be posted on Piazza. Sign up [using this link](https://pi
   {%include exam_table.html %}
  </div>
 </div>
+
+---
+
+*Most of the materials I'm using this quarter were made by Diba Mirza. Anything good about this class can be attributed to her, and all bad things are totally my fault* :)
