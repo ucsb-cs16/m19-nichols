@@ -9,11 +9,9 @@ ready: true
 
 ---
 
-<!--
-
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-04>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/06-27>
 
 # Topics
 
@@ -31,5 +29,3 @@ ready: true
 * Evaluating C++ expressions
 
 ## Intro to Git
-
--->
