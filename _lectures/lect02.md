@@ -5,9 +5,11 @@ desc: ' Control Structures, I/O in programs'
 lecture_date: 2019-06-27
 num: Lecture 2
 slides: /lectures/CS16_Lecture2.pdf
-ready: false
+ready: true
 
 ---
+
+<!--
 
 # Code from lecture
 
@@ -29,3 +31,5 @@ ready: false
 * Evaluating C++ expressions
 
 ## Intro to Git
+
+-->
