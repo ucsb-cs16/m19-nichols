@@ -246,7 +246,7 @@ In fact, <i>AND PLEASE NOTE THIS</i>, no one editor is necessarily "better" than
 As you progress in your Computer Science education and, subsequently, your careers in CS, make sure you end up learning how to use more than one editor. You can still have a "favorite" that you excel at using, but at least have a working familiarity with others.
 
 
-1. <b>emacs</b> for UNIX-based OS
+### <b>emacs</b> for UNIX-based OS
 
 emacs is a very popular editor that's available on just about every UNIX machine (including the ones that you're using in the CS labs) and UNIX-based machines (like MacOS computers).
 
@@ -281,7 +281,7 @@ To learn how to use emacs, there is no substitute for PRACTICE!!! Of course, the
 * <a href="http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs" target="_blank">a beginner's guide to emacs</a>
 
 
-2. <b>vim</b> for UNIX-based OS
+### <b>vim</b> for UNIX-based OS
 
 vim (or sometimes called vi) is another popular editor that's also available on just about every UNIX machine (including the ones that you're using in the CS labs) and UNIX-based machines (like MacOS computers).
 
@@ -293,13 +293,22 @@ To edit a file (let's say it's called "filename"), you'd type:
 
 	$ vim <filename>
 
-To customize your vim environment for a better coding experience with C/C++ copy this .vimrc file from the instructor folder to your home folder using the following command:
+To customize your vim environment for a better coding experience with C/C++, let’s add the following lines to a .vimrc file in your home folder (make sure to use this exact filename, since it is a system file, there are no spaces in ~/.vimrc).
 
-```
-cp /cs/faculty/dimirza/cs16-wi17/labs/example_dotvimrc/.vimrc ~/
-```
+Let’s dive in! Open the file:
 
-Again, to learn how to use vim, there is no substitute for PRACTICE!!! Again, there are multiple online resources that you can look at and here are some of them:
+    $ vim ~/.vimrc
+
+Look at the bottom of the vim window to check if you are in the “Insert” mode (if you are not, then type i). Either copy/paste (by right-clicking using the mouse, if you are using the terminals in the lab) or type the following four lines into the file:
+
+    set nu
+    syntax on
+    set autoindent
+    set cindent
+
+Exit the “Insert” mode by pressing Esc key on the keyboard, then type :wq to write and quit the file (the colon : is important! Don’t leave it out!).
+
+Again, to learn how to use vim, there is no substitute for practice!!! Here are some more vim hints to refer to. We don’t expect you to be experts in vim this quarter, but you should definitely pick up “survival” skills. A little later this quarter, we will confirm that you know how to do the “basic eight” (vim: basic eight).
 
 * <a href="http://www.vim.org/about.php" target="_blank">About vim</a>
 
