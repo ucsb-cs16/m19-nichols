@@ -5,10 +5,11 @@ desc: Loops (for, while, do-while), doubles
 lecture_date: 2019-07-02
 num: Lecture 3
 slides: /lectures/CS16_Lecture3.pdf
-ready: false
+ready: true
 
 ---
 
+<!--
 # Lecture videos
 
 You should change the quality to the highest setting. And I'm sorry that I say "uh" a lot—at least you can watch at twice the speed and get it over with!
@@ -63,3 +64,5 @@ Horses cost $10, pigs cost $3, and rabbits are only $0.50. A farmer buys 100 ani
 Write a program to do this.
 
 ## Precedence
+
+-->
