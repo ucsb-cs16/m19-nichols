@@ -16,10 +16,11 @@ You should change the quality to the highest setting. And I'm sorry that I say "
 
 - Precedence, assigning using constructors, `cerr` (watch this first): <https://www.youtube.com/watch?v=J5mCrJ3yUlg>
 - Main lecture: <https://www.youtube.com/watch?v=06yplj26938>
+-->
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-09>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-02>
 
 # Topics
 
@@ -65,4 +66,3 @@ Write a program to do this.
 
 ## Precedence
 
--->
