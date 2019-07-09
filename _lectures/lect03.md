@@ -1,7 +1,7 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture3_ann.pdf
 annotatedready: true
-desc: Loops (for, while, do-while), doubles
+desc: Loops (for, while, do-while), doubles, functions
 lecture_date: 2019-07-02
 num: Lecture 3
 slides: /lectures/CS16_Lecture3.pdf

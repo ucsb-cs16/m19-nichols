@@ -1,13 +1,17 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture4_ann.pdf
 annotatedready: true
-desc: Functions
+desc: Functions, Makefiles
 lecture_date: 2019-07-09
 num: Lecture 4
 slides: /lectures/CS16_Lecture4.pdf
-ready: false
+ready: true
 
 ---
+
+More slides [here](/m19-nichols/lectures/CS16_Lecture5.pdf)
+
+<!--
 
 # Lecture video
 
@@ -26,3 +30,6 @@ ready: false
 ## Testing code
 
 ## Header files, making our own libraries
+
+
+-->
