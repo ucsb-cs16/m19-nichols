@@ -11,6 +11,19 @@ ready: true
 
 More slides [here](/m19-nichols/lectures/CS16_Lecture5.pdf)
 
+# Code from Lecture
+
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-09>
+
+## Three key aspects of functions
+* Declaration (what are the inputs, outputs?)
+* Definition  (actual code for achieving the desired behavior)
+* Function call (using function)
+
+## Testing code
+
+## Header files, making our own libraries
+
 <!--
 
 # Lecture video
@@ -20,7 +33,6 @@ More slides [here](/m19-nichols/lectures/CS16_Lecture5.pdf)
 # Code from lecture
 
 <https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-11>
-
 
 ## Three key aspects of functions
 * Declaration (what are the inputs, outputs?)
