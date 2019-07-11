@@ -1,24 +1,29 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture7_ann.pdf
 annotatedready: true
-desc: File I/O
+desc: Arrays
 lecture_date: 2019-07-18
 num: Lecture 7
-slides: /lectures/CS16_Lecture7.pdf
-ready: false
+slides: /lectures/CS16_Lecture8.pdf
+ready: true
 
 ---
 
+# Lecture video
+
+<https://youtu.be/VnpkCOYMFyQ>
+
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-23>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-16>
 
 # Topics
-## File I/O basics
-* Intro to lab03
-* Examining text files using 1) an editor 2) cat command
-* Opening a file: open()
-* Reading a line from a file: getline()
-* Reading until the end of file is reached
-* Detecting failures
+
+## Memory
+
+## C++ arrays
+* C/C++ arrays are like lists in Python and Arrays in Java. We will discuss the differences between these.
+* Declaring and initializing arrays in C++
+* Tracing code involving arrays
+* Array pitfalls: out of bound array access
 

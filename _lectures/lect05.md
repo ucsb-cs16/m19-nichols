@@ -1,17 +1,17 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture5_ann.pdf
 annotatedready: true
-desc: Makefiles
+desc: Makefiles, Data Representation
 lecture_date: 2019-07-11
 num: Lecture 5
-slides: /lectures/CS16_Lecture5.pdf
-ready: false
+slides: /lectures/CS16_Lecture6.pdf
+ready: true
 
 ---
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-16>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-11>
 
 # Super Sweet Makefile Tutorial
 
@@ -20,6 +20,16 @@ ready: false
 Made by Jacqui Mai, Professor K, and me.
 
 # Topics
+
+## Data and number representation
+
+* Positional encoding: binary, hex, decimal
+* Internal vs. external representation
+* Conversion between different representations
+* Key ideas: bits can represent ANYTHING. With n bits we can represent at most 2^N things
+* Apply above rule to represent characters (ASCII), unicode, colors ....
+* The data type of a variable determines its representation in memory AND the number of bits used to store each variable
+
 
 ## Precedence
 

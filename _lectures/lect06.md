@@ -1,28 +1,28 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture6_ann.pdf
 annotatedready: true
-desc: Data representation
+desc: File I/O
 lecture_date: 2019-07-16
 num: Lecture 6
-slides: /lectures/CS16_Lecture6.pdf
-ready: false
+slides: /lectures/CS16_Lecture7.pdf
+ready: true
 
 ---
 
+# Lecture video
+
+<https://youtu.be/-p3ow9KgunU>
+
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-16>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-16>
 
 # Topics
+## File I/O basics
+* Intro to lab03
+* Examining text files using 1) an editor 2) cat command
+* Opening a file: open()
+* Reading a line from a file: getline()
+* Reading until the end of file is reached
+* Detecting failures
 
-* Super sweet Makefile tutorial: <https://docs.google.com/document/d/1Kf8RbENqHVzGIEJnDQVKBbS_zoOeJHh5YzYTHqJfuRA/edit?usp=sharing>
-* Another resource for learning about separate compilation with Makefiles <https://foo.cs.ucsb.edu/16wiki/index.php/C%2B%2B:_Separate_Compilation_and_Makefiles>
-
-## Data and number representation
-
-* Positional encoding: binary, hex, decimal
-* Internal vs. external representation
-* Conversion between different representations
-* Key ideas: bits can represent ANYTHING. With n bits we can represent at most 2^N things
-* Apply above rule to represent characters (ASCII), unicode, colors ....
-* The data type of a variable determines its representation in memory AND the number of bits used to store each variable

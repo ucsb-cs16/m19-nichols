@@ -4,7 +4,7 @@ annotatedready: true
 desc: Defining your own data types
 lecture_date: 2019-08-01
 num: Lecture 10
-slides: /lectures/CS16_Lecture10.pdf
+slides: /lectures/CS16_Lecture11.pdf
 ready: false
 
 ---

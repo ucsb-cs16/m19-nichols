@@ -4,7 +4,7 @@ annotatedready: true
 desc: Recursion and Strings
 lecture_date: 2019-08-20
 num: Lecture 14
-slides: /lectures/CS16_Lecture14.pdf
+slides: /lectures/CS16_Lecture15.pdf
 ready: false
 
 ---

@@ -4,7 +4,7 @@ annotatedready: true
 desc: Recursion, More Linked lists
 lecture_date: 2019-08-15
 num: Lecture 13
-slides: /lectures/CS16_Lecture13.pdf
+slides: /lectures/CS16_Lecture14.pdf
 ready: false
 
 ---
