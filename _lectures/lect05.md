@@ -13,6 +13,15 @@ ready: true
 
 <https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-11>
 
+# Lecture video with the rest of the lecture
+
+<https://youtu.be/I1HAQQm_ejM>
+
+## Stuff I wrote on the virtual "whiteboard" in the video
+
+Go here and click on the appropriate date:
+<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
+
 # Super Sweet Makefile Tutorial
 
 <https://docs.google.com/document/d/1Kf8RbENqHVzGIEJnDQVKBbS_zoOeJHh5YzYTHqJfuRA/edit?usp=sharing>
