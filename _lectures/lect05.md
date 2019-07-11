@@ -4,7 +4,7 @@ annotatedready: true
 desc: Makefiles, Data Representation
 lecture_date: 2019-07-11
 num: Lecture 5
-slides: /lectures/CS16_Lecture6.pdf
+slides: /lectures/CS16_Lecture5and6.pdf
 ready: true
 
 ---
