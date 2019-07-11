@@ -5,7 +5,7 @@ desc: File I/O
 lecture_date: 2019-07-16
 num: Lecture 6
 slides: /lectures/CS16_Lecture7.pdf
-ready: false
+ready: true
 
 ---
 
