@@ -5,7 +5,7 @@ desc: Arrays
 lecture_date: 2019-07-18
 num: Lecture 7
 slides: /lectures/CS16_Lecture8.pdf
-ready: true
+ready: false
 
 ---
 
