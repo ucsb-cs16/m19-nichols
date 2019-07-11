@@ -1,7 +1,7 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture4_ann.pdf
 annotatedready: true
-desc: Functions, Makefiles
+desc: Functions
 lecture_date: 2019-07-09
 num: Lecture 4
 slides: /lectures/CS16_Lecture4.pdf
