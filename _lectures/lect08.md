@@ -1,14 +1,15 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture8_ann.pdf
 annotatedready: true
-desc: Arrays
+desc: Pointers
 lecture_date: 2019-07-25
 num: Lecture 8
 slides: /lectures/CS16_Lecture9.pdf
-ready: false
+ready: true
 
 ---
 
+<!--
 
 # Code from lecture
 
@@ -39,3 +40,5 @@ ready: false
 * Declaring and initializing arrays in C++
 * Tracing code involving arrays
 * Array pitfalls: out of bound array access
+
+-->
