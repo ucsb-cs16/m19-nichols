@@ -1,13 +1,15 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture9_ann.pdf
 annotatedready: true
-desc: Pointers
+desc: "References, defining your own data types with structs"
 lecture_date: 2019-07-30
 num: Lecture 9
 slides: /lectures/CS16_Lecture10.pdf
-ready: false
+ready: true
 
 ---
+
+<!--
 
 ## Code from lecture
 
@@ -32,3 +34,5 @@ ready: false
 * Function calls use the run-time stack, we'll see how and why that's important
 * Review of pass by value
 * Passing parameters to functions by address
+
+-->
