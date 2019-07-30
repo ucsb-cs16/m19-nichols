@@ -9,30 +9,15 @@ ready: true
 
 ---
 
-<!--
-
 ## Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-02>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/07-30>
 
-# Kevin's notes
+## Pointers and structs
+* Defining your own data types using structs
+* Different ways of accessing member variables of a structs
+* Passing structs to functions by value, by reference and by address
 
-[Follow this link to access the notes](/lectures/CS16_Lecture9_Notes.docx){:data-ajax="false"}
-
-# Topics
-
-## Pointers
-
-* Pointer declaration - difference/similarities with declaring basic types
-* Accessing variables "indirectly" via pointers
-* The address and indirection operators: "&" and "*"
-* Pointers and arrays - similarities and dfferences
-* Passing arrays to functions - specifically looking at how arrays degnerate to pointers on function calls.
-
-
-## Under the hood of function calls
-* Function calls use the run-time stack, we'll see how and why that's important
-* Review of pass by value
-* Passing parameters to functions by address
-
--->
+## C++ References
+* Creating aliases with references
+* Differences between references and pointers
