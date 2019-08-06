@@ -8,44 +8,19 @@ slides: /lectures/CS16_Lecture12.pdf
 ready: true
 
 ---
-<!--
-## Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-09>
+# Code from lecture
 
-## Stuff I wrote on the "whiteboard"
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/08-05>
+
+# Stuff I wrote on the "whiteboard"
 
 Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
-
-## Kevin's Notes
-
-[Follow this link to access the notes](/lectures/CS16_Lecture11_Notes.docx){:data-ajax="false"}
+<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
 
 # Topics
 
-The good:
-
-* Pointers allow arrays to be passed to functions efficiently
-* Pointers allow arrays of large structs to be traversed effiently
-
-The bad:
-
-* Pointers can only point to one type of data (not generic)
-* They don't automatically point - need to do some work
-
-The ugly
-
-* Bugs in code that involves pointers can cause your program to irrecoverably crash (Segmentation fault)
-* Examples: dereferencing a null pointer, out of bound array access, dereferncing a pointer that has junk value.
-
-## C++ Memory model
-* Barebones model of memory: value vs address
-* Scope: local vs. global
-* Layout of compiled C++ program in memory: text, global data , heap and stack
-
-
-* A first look at dynamic memory allocation
-* The hows and whys of creating data on the stack vs. heap
-
--->
+* Linked-lists
+* Iterating through linked lists using traversal pointers
+* Creating an empty list
+* Inserting in a list
