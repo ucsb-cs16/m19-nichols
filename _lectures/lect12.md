@@ -5,9 +5,11 @@ desc: Linked lists, Dynamic memory allocation (Heap), Heap vs Stack
 lecture_date: 2019-08-08
 num: Lecture 12
 slides: /lectures/CS16_Lecture13.pdf
-ready: false
+ready: true
 
 ---
+
+<!--
 
 ## Code from lecture
 
@@ -28,3 +30,5 @@ Go here and click on the appropriate date:
 * Iterating through linked lists using traversal pointers
 * Creating an empty list
 * Inserting in a list
+
+-->
