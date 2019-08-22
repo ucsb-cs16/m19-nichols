@@ -9,16 +9,12 @@ ready: false
 
 ---
 
-## Code from lecture
+# Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-30>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/08-27>
 
-## Kevin's Notes
-
-[Follow this link to access the notes](/lectures/CS16_Lecture18_Notes.docx){:data-ajax="false"}
-
-## Stuff I wrote on the "whiteboard"
+# Stuff I wrote on the "whiteboard"
 
 Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
+<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
 
