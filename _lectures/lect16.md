@@ -1,11 +1,11 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture16_ann.pdf
 annotatedready: true
-desc: Wrap up
+desc: Review
 lecture_date: 2019-08-27
 num: Lecture 16
 slides: /lectures/CS16_Lecture15.pdf
-ready: false
+ready: true
 
 ---
 
