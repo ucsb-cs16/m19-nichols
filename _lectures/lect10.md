@@ -1,34 +1,46 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture10_ann.pdf
 annotatedready: true
-desc: Defining your own data types
-lecture_date: 2019-07-30
+desc: The good, bad and ugly about pointers, C++ Memory Model, Dynamic memory allocation
+  (Heap), Heap vs Stack
+lecture_date: 2019-08-01
 num: Lecture 10
-pdfurl: /lectures/CS16_Lecture10.pdf
-ready: false
+slides: /lectures/CS16_Lecture11.pdf
+ready: true
 
 ---
 
-# Topics
+# Code from lecture
 
-## Code from lecture
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/08-01>
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-07>
-
-## Stuff I wrote on the "whiteboard"
+# Stuff I wrote on the "whiteboard"
 
 Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
+<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
 
-## Kevin's Notes
+# Topics
 
-[Follow this link to access the notes](/lectures/CS16_Lecture10_Notes.docx){:data-ajax="false"}
+The good:
 
-## Pointers and structs
-* Defining your own data types using structs
-* Different ways of accessing member variables of a structs
-* Passing structs to functions by value, by reference and by address
+* Pointers allow arrays to be passed to functions efficiently
+* Pointers allow arrays of large structs to be traversed effiently
 
-## C++ References
-* Creating aliases with references
-* Differences between references and pointers
+The bad:
+
+* Pointers can only point to one type of data (not generic)
+* They don't automatically point - need to do some work
+
+The ugly
+
+* Bugs in code that involves pointers can cause your program to irrecoverably crash (Segmentation fault)
+* Examples: dereferencing a null pointer, out of bound array access, dereferncing a pointer that has junk value.
+
+## C++ Memory model
+* Barebones model of memory: value vs address
+* Scope: local vs. global
+* Layout of compiled C++ program in memory: text, global data , heap and stack
+
+
+* A first look at dynamic memory allocation
+* The hows and whys of creating data on the stack vs. heap

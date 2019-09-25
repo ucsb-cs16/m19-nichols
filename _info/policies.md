@@ -8,45 +8,17 @@ ready: true
 
 
 ## Disabled Students Program (DSP)
-
-UCSB provides academic accommodations to students with
-disabilities. Students with disabilities are responsible for ensuring
-that the Disabled Students Program (DSP) is aware of their
-disabilities and for providing DSP with appropriate documentation. DSP
-is located at 2120 Student Resource Building and serves as the campus
-liaison regarding issues and regulations related to students with
-disabilities. The DSP staff works in an advisory capacity with a
-variety of campus departments to ensure that equal access is provided
-to all disabled students.  If you have a disability that requires
-accommodation in this class, please go see the DSP very early on in
-the quarter. I will only honor these types of requests for
-accommodation via the DSP. More information about the DSP is found
-here: [http://dsp.sa.ucsb.edu](http://dsp.sa.ucsb.edu)
+UCSB provides academic accommodations to students with disabilities. Students with disabilities are responsible for ensuring that the Disabled Students Program (DSP) is aware of their disabilities and for providing DSP with appropriate documentation. DSP is located at 2120 Student Resource Building and serves as the campus liaison regarding issues and regulations related to students with disabilities. The
+DSP staff works in an advisory capacity with a variety of campus departments to ensure that equal access is provided to all disabled students.
+If you have a disability that requires accommodation in this class, please go see the DSP very early on in the quarter. I will only honor these types of requests for accommodation via the DSP. More information about the DSP is found here: [http://dsp.sa.ucsb.edu](http://dsp.sa.ucsb.edu)
 
 ## UCSB Policy on Academic Honesty<a name="AH"></a>
 
-It is expected that students attending the University of California
-understand and subscribe to the ideal of academic integrity, and are
-willing to bear individual responsibility for their work. Any work
-(written or otherwise) submitted to fulfill an academic requirement
-must represent a student’s original work. Any act of academic
-dishonesty, such as cheating or plagiarism, will subject a person to
-University disciplinary action. Using or attempting to use materials,
-information, study aids, or commercial “research” services not
-authorized by the instructor of the course constitutes
-cheating. Representing the words, ideas, or concepts of another person
-without appropriate attribution is plagiarism. Whenever another
-person’s written work is utilized, whether it be a single phrase or
-longer, quotation marks must be used and sources cited. Paraphrasing
-another’s work, i.e., borrowing the ideas or concepts and putting them
-into one’s “own” words, must also be acknowledged. Although a person’s
-state of mind and intention will be considered in determining the
-University response to an act of academic dishonesty, this in no way
-lessens the responsibility of the student.
+It is expected that students attending the University of California understand and subscribe to the ideal of academic integrity, and are willing to bear individual responsibility for their work. Any work (written or otherwise) submitted to fulfill an academic requirement must represent a student’s original work. Any act of academic dishonesty, such as cheating or plagiarism, will subject a person to University disciplinary action. Using or attempting to use materials, information, study aids, or commercial “research” services not authorized by the instructor of the course constitutes cheating. Representing the words, ideas, or concepts of another person without appropriate attribution is plagiarism. Whenever another person’s written work is utilized, whether it be a single phrase or longer, quotation marks must be used and sources cited. Paraphrasing another’s work, i.e., borrowing the ideas or concepts and putting them into one’s “own” words, must also be acknowledged. Although a person’s state of mind and intention will be considered in determining the University response to an act of academic dishonesty, this in no way lessens the responsibility of the student.
 
 <em>(Section A.2 from: http://www.sa.ucsb.edu/Regulations/student_conduct.aspx,  Student Conduct, General Standards of Conduct)</em>
 
-Each student is responsible for knowing and abiding by UCSB's policies on Academic Honesty. Any student violating these policies will earn an 'F' in the course and will be reported to the Academic Integrity Office. Committing acts that violate Student Conduct policies that result in course disruption are cause for suspension or dismissal from UCSB.
+Each student is responsible for knowing and abiding by UCSB's policies on Academic Honesty. Any student violating these policies will earn an 'F' in the course and will be reported to the Academic Integrity Office . Committing acts that violate Student Conduct policies that result in course disruption are cause for suspension or dismissal from UCSB.
 
 ### About Collaboration
 
@@ -92,7 +64,7 @@ Each student is responsible for knowing and abiding by UCSB's policies on Academ
 
 ## Exceptions
 
-<p>If you miss a class, you miss the opportunity for the points on the in-class assignment or homework that was due. Period. </p>
+<p>If you miss a class, you miss the opportunity for the points on that in-class assignment, or homework that was due. Period. </p>
 <p>There is no makeup, except for:</p>
 <ul>
   <li>excused absences arranged and agreed to by the instructor <strong>in advance</strong>, for official UCSB activities</li>
@@ -100,7 +72,6 @@ Each student is responsible for knowing and abiding by UCSB's policies on Academ
 </ul>
 <p>To make up an assignment from a &quot;sick-day/personal-day&quot;, you must within one week of the absence, or 24 hours before the final exam, which ever is earlier, come to office hours (this cannot be done in lab). You may only do this ONCE per quarter.</p>
 <p>In rare cases, if there is a documented family emergency, documented extended illness, documented required court appearance, or other situation beyond the students' control (with documentation) the instructor may grant additional make up days entirely at the instructor's discretion—but this is <strong>not</strong> a guarantee or a right.</p>
-
 
 ## About pair programming
 
@@ -146,13 +117,12 @@ So:
 <h3 ><em>Are there any extra credit components in this course?</em></h3>
  <p>I offer extra credit to the first person to report typos in the assigned readings from the book, or the homework assignments themselves.  Thus, starting earlier gives you a better chance to be the first one to report the typo. There is a special forum on Gauchospace for reporting typos—the time it is first reported there is what counts for extra credit (reporting it by email or in person or in class is <em>nice</em>, but does <em>not</em> earn the extra credit.) You can also get extra credit for exceptional participation and dissemination of good information on the class discussion forum</p>
 
-<h3 ><em>Do we need to bring laptops to class? </em></h3>
+<p >Do we need to bring laptops to class? </p>
 <p >You do not <em>need</em> to bring a laptop to class. </p>
-
 <h3 >Are we permitted to use laptops during lecture?</h3>
 <p >Research has shown that the use of electronic devices for purposed othen than note-taking or class related activities hampers the learning of both the student and those sitting close by. Although you are allowed to bring your laptop or mobile device, you may not use it to read email or Facebook, play games, etc. That latter use can be a real distraction to others sitting behind that student, not to mention the distraction to the laptop user herself/himself.</p>
 <p> The instructor holds the right to ask you to leave the class if you fail to comply with the course policy on using devices. If I find that this isn't working out, I reserve the right to change the policy and implement a ban on laptops in lecture (where the only exception would be someone with a medically certified disability that needs the laptop for ADA-compliance.)</p>
-<p >So, you don't want to be &quot;that one&quot; who spoils it for everyone else. If you use a laptop, use it for legit purposes during class time.</p>
+<p >So, you don't want to be &quot;that guy&quot; or &quot;that gal&quot; that spoils it for everyone else. If you use a laptop, use it for legit purposes during class time.</p>
 <h3 >What about laptops in lab?</h3>
 <p >Sometimes students want to use their laptops in lab instead of using the Linux computers provided. I would like to strongly discourage this for a variety of reasons:</p>
 <ul>

@@ -4,14 +4,14 @@ annotatedready: true
 desc: Course overview, a gentle intro to C++ - Standard I/O
 lecture_date: 2019-06-25
 num: Lecture 1
-pdfurl: /lectures/CS16_Lecture1.pdf
-ready: false
+slides: /lectures/CS16_Lecture1.pdf
+ready: true
 
 ---
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-02>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/06-25>
 
 # Topics
 
@@ -35,5 +35,4 @@ ready: false
 * Choosing an editor (vim or emacs)- may the best editor win!
 * Remote login with ssh
 * High level introduction to tools: gradescope, github
-
 

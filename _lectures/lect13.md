@@ -1,23 +1,27 @@
 ---
 annotatedpdfurl: /lectures/CS16_Lecture13_ann.pdf
 annotatedready: true
-desc: Recursion, More Linked lists
-lecture_date: 2019-08-08
+desc: More recursion, strings
+lecture_date: 2019-08-15
 num: Lecture 13
-pdfurl: /lectures/CS16_Lecture13.pdf
-ready: false
+slides: /lectures/CS16_Lecture14.pdf
+ready: true
 
 ---
 
-## Code from lecture
+# Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/05-21>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/08-15>
 
-## Stuff I wrote on the "whiteboard"
+# Stuff I wrote on the "whiteboard"
 
 Go here and click on the appropriate date:
-<https://1drv.ms/o/s!AlgIeD1urAgmgQHsG_JzMJgKHx9V>
+<https://1drv.ms/o/s!AlgIeD1urAgmgQU7loNfb3-LYrma>
 
-## Kevin's Notes
+# Topics
 
-[Follow this link to access the notes](/lectures/CS16_Lecture13_Notes.docx){:data-ajax="false"}
+* Recursion: Order is very important: one line in the wrong spot makes you print the elements in reverse order
+* char arrays, C-strings and string literals
+* Basic operations on C-Strings s
+* String class objects and methods (similarities and differences with c-strings)
+* Understanding the problems for lab08 - isAnagram

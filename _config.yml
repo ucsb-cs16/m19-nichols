@@ -23,7 +23,7 @@ qtr: "M19-C"
 quarter: "Summer 2019 Session C"
 
 ta_names: "TBA"
-lab_times: "Thu: 11a, 12:30p, 2p, 3:30p"
+lab_times: "Wed: 10:30am, 12:00pm, 1:30pm"
 instructor: "Lawton Nichols"
 lecture_times: "TR 11-12:20a"
 lecture_location: "PHELPS 3526"
@@ -40,10 +40,13 @@ instructor_url: https://ucsb-cs8.github.io/instructor
 cal_dates: >
   [
   {"label":"Session C starts", "date":"2019-06-24" },
-  {"label":"Univ Holiday", "date":"2019-07-04" , "holiday":true },
+  {"label":"No class—4th of July Holiday", "date":"2019-07-04" , "holiday":true },
   {"label":"Drop deadline (full refund)","date":"2019-06-28" },
   {"label":"Drop deadline (no W grade)","date":"2019-07-22" },
-  {"label":"Session C Ends", "date":"2019-08-31" }
+  {"label":"Session C Ends", "date":"2019-08-31" },
+  {"label":"No class—Lawton's out of town", "date":"2019-07-16" },
+  {"label":"No class—Lawton's out of town", "date":"2019-07-18" }
+
   ]
 
 

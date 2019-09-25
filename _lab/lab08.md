@@ -1,7 +1,7 @@
 ---
-assigned: 2019-08-21 17:00
+assigned: 2019-08-21 00:00
 desc: 'Anagrams, palindromes: Strings and recursion'
-due: 2019-08-31 06:59
+due: 2019-08-28 23:59
 layout: lab
 num: lab08
 ready: true

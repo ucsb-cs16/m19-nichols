@@ -4,14 +4,14 @@ annotatedready: true
 desc: ' Control Structures, I/O in programs'
 lecture_date: 2019-06-27
 num: Lecture 2
-pdfurl: /lectures/CS16_Lecture2.pdf
-ready: false
+slides: /lectures/CS16_Lecture2.pdf
+ready: true
 
 ---
 
 # Code from lecture
 
-<https://github.com/ucsb-cs16-s19-nichols/code-from-class/tree/master/04-04>
+<https://github.com/ucsb-cs16-m19/code-from-class/tree/master/06-27>
 
 # Topics
 

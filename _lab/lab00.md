@@ -1,7 +1,7 @@
 ---
-assigned: 2019-06-26 17:00
+assigned: 2019-06-26 00:00
 desc: Getting started
-due: 2019-07-03 06:59
+due: 2019-07-02 23:59
 layout: lab
 num: lab00
 ready: true
@@ -28,7 +28,7 @@ If you are enrolled in <i>any</i> CoE course this quarter (including CS24), you 
 
 ## Get setup with github
 
-We will be using github.com in this course.   We have created an organization called ucsb-cs16-s19-nichols on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors and TAs) will be able to see your code and provide you with help, without you having to do anything special.
+We will be using github.com in this course.   We have created an organization called ucsb-cs16-m19 on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors and TAs) will be able to see your code and provide you with help, without you having to do anything special.
 
 ## Get setup with github and adding yourself to our organization
 
@@ -36,17 +36,17 @@ To join this organization, you need to do the following:
 
 1. If you don't already have a github.com account, create one on the "free" plan. Visit [https://github.com/](https://github.com/)
 
-2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
+2. If you don't already have your **@umail.ucsb.edu** email address associated with your github.com account. It's important that it's your @umail.ucsb.edu and not your @ucsb.edu—the sign up tool won't work otherwise. Go to "settings", add that email, and confirm that email address.
 
-3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-S19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
+3. Visit our Github Sign Up Tool at [https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find this course (CS16-M19-Nichols), and click the "join course button". That will automatically send you an invitation to join the course organization on github. **If this step doesn't work for you, ask your TA to add you to the organization manually.**
 
-4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-s19-nichols>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-s19-nichols> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
+4. There should be a link to the invitation for the GitHub organization for this course (<https://github.com/ucsb-cs16-m19>). Click on the invitation link and accept it. You can also go straight to <https://github.com/ucsb-cs16-m19> and see the invitation there (if you're logged in). Accept the invitation that appears in your browser (from step 3) or log into your account on [https://github.com/](https://github.com/) to accept the invitation.
 
 ## Get setup with gradescope
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope. **If you weren't invited to gradescope for some reason, give your TA your name, email and perm number, and they can manually add you to the class.**
 
-Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Spring 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
+Log into our class site on [https://www.gradescope.com/](https://www.gradescope.com/): CS 16 Summer 2019 (Nichols) and navigate to the lab00 assignment. Keep this page open to submit your code at the end of the lab
 
 # Implement and submit a simple C++ program 
 
@@ -246,7 +246,7 @@ In fact, <i>AND PLEASE NOTE THIS</i>, no one editor is necessarily "better" than
 As you progress in your Computer Science education and, subsequently, your careers in CS, make sure you end up learning how to use more than one editor. You can still have a "favorite" that you excel at using, but at least have a working familiarity with others.
 
 
-1. <b>emacs</b> for UNIX-based OS
+### <b>emacs</b> for UNIX-based OS
 
 emacs is a very popular editor that's available on just about every UNIX machine (including the ones that you're using in the CS labs) and UNIX-based machines (like MacOS computers).
 
@@ -281,7 +281,7 @@ To learn how to use emacs, there is no substitute for PRACTICE!!! Of course, the
 * <a href="http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs" target="_blank">a beginner's guide to emacs</a>
 
 
-2. <b>vim</b> for UNIX-based OS
+### <b>vim</b> for UNIX-based OS
 
 vim (or sometimes called vi) is another popular editor that's also available on just about every UNIX machine (including the ones that you're using in the CS labs) and UNIX-based machines (like MacOS computers).
 
@@ -293,13 +293,22 @@ To edit a file (let's say it's called "filename"), you'd type:
 
 	$ vim <filename>
 
-To customize your vim environment for a better coding experience with C/C++ copy this .vimrc file from the instructor folder to your home folder using the following command:
+To customize your vim environment for a better coding experience with C/C++, let’s add the following lines to a .vimrc file in your home folder (make sure to use this exact filename, since it is a system file, there are no spaces in ~/.vimrc).
 
-```
-cp /cs/faculty/dimirza/cs16-wi17/labs/example_dotvimrc/.vimrc ~/
-```
+Let’s dive in! Open the file:
 
-Again, to learn how to use vim, there is no substitute for PRACTICE!!! Again, there are multiple online resources that you can look at and here are some of them:
+    $ vim ~/.vimrc
+
+Look at the bottom of the vim window to check if you are in the “Insert” mode (if you are not, then type i). Either copy/paste (by right-clicking using the mouse, if you are using the terminals in the lab) or type the following four lines into the file:
+
+    set nu
+    syntax on
+    set autoindent
+    set cindent
+
+Exit the “Insert” mode by pressing Esc key on the keyboard, then type :wq to write and quit the file (the colon : is important! Don’t leave it out!).
+
+Again, to learn how to use vim, there is no substitute for practice!!! Here are some more vim hints to refer to. We don’t expect you to be experts in vim this quarter, but you should definitely pick up “survival” skills. A little later this quarter, we will confirm that you know how to do the “basic eight” (vim: basic eight).
 
 * <a href="http://www.vim.org/about.php" target="_blank">About vim</a>
 
@@ -390,7 +399,7 @@ If you encounter an error, use the compiler hints and examine the line in questi
 Once you are satisfied that your program is correct, then it's time to submit it.
 
 
-Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Spring 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
+Log into your account on [https://www.gradescope.com/](https://www.gradescope.com/) and navigate to our course site: CS 16 Summer 2019 (Nichols). Select this assignment. Then click on the "Submit" button on the bottom right corner to make a submission. You will be given the option of  uploading files from your local machine or submitting the code that is in a github repo. For now choose the first option and follow the steps to upload hello.cpp to gradescope. We will use the second method later on in the course.
 
 You should receive 50/50 for a correct "Hello World " program
 

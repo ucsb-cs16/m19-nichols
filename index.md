@@ -2,8 +2,9 @@
 title: "CS16, M19, Nichols"
 ---
 
+## {{site.course}} {{site.quarter}}
 
-## {{site.course}} {{site.quarter}}, {{site.instructor}}
+All announcements will be posted on Piazza. Sign up [using this link](https://piazza.com/ucsb/summer2019/cs16nichols).
 
 {% include collapse-button.html label="Information" id="info-list" %}
 
@@ -28,7 +29,7 @@ title: "CS16, M19, Nichols"
  </div>
 </div>
 
-{% include collapse-button.html label="Labs and Project" id="lab" %}
+{% include collapse-button.html label="Labs" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
   {% include lab_table.html %}
@@ -43,7 +44,6 @@ title: "CS16, M19, Nichols"
  </div>
 </div>
 
+---
 
-
-
-y
+*Most of the materials I'm using this quarter were made by Diba Mirza. Anything good about this class can be attributed to her, and all bad things are totally my fault* :)
